@@ -1,7 +1,7 @@
 # Implementation of Spatial-temporal Regression with Evolution Equation Constraint
 
 ## Data
-Fluorescence recovery after photobleaching (FRAP) data from [https://zenodo.org/records/3874218](https://zenodo.org/records/3874218) was used for this work. An *.RData* file in "***real_prep.RData***" was obtained after pre-processing by "***real_prep.R***".
+Fluorescence recovery after photobleaching (FRAP) data from [https://zenodo.org/records/3874218](https://zenodo.org/records/3874218) was used for this work. An *.RData* file in "***real_prep.zip***" was obtained after pre-processing by "***real_prep.R***".
 
 ## Code
 - "***simu_begin.R***": Generate the simulation setting.
