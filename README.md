@@ -11,4 +11,4 @@ Fluorescence recovery after photobleaching (FRAP) data from [https://zenodo.org/
 
 ## Workflow
 - Simulation: Run "***simu_select.R***", "***simu_noise.R***" and "***simu_supp.R***"; each can be run separately.
-- Real data example: Make sure that "***real_prep.RData***" is in the working directory. Run "***real_cut.R***" ＆ "***real_pen.R***" and *then* "***real_sum.R***".
+- Real data example: Load "***real_prep.RData***". Run "***real_cut.R***" ＆ "***real_pen.R***" and *then* "***real_sum.R***".
